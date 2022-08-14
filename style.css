@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:  rgb(255, 255, 255);
+}
+.main{
+    background-color: rgb(250, 250, 250);
+}
+.input-Question{
+    width: 870px;
+}
+ol li{
+    list-style: none;
+    display: inline; 
+    margin: 40px;
+    font-size: large;
+}
+.buttonadd{
+    width: 90px;
+    border-radius: 2px;
+}
+#testBlock{
+    display: none;
+}
+#institute-Name{
+    width: 500px;
+}
+#Sub{
+    width: 500px;
+}
+#Time{
+    width: 500px;
+}
